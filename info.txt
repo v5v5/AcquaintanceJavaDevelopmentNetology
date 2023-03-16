@@ -1,0 +1,9 @@
+Задание 1
+https://github.com/netology-code/jdfree-homeworks/tree/jdfree-6/01#readme
+
+
+Задание 2
+https://github.com/netology-code/jdfree-homeworks/blob/jdfree-6/02/readme.md
+
+https://api.nasa.gov/
+API Key 2M1rlk4xCyq57D8BtfeKsJc4q374YArKOLfGNFKp
